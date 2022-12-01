@@ -1,5 +1,5 @@
 # Nobel_Prize_Dataset
-The Nobel Prize is possibly the most prestigious scientific honor in the world. Since 1901, the Nobel Prize has recognized extraordinary accomplishments in physics, chemistry, physiology or medicine, literature, and contributions to international peace (NobelPrize.Org).![image](https://user-images.githubusercontent.com/115408064/205164502-768be67e-3d25-40bb-af9b-32c371c5b76a.png)
+The Nobel Prize is possibly the most prestigious scientific honor in the world. Since 1901, the Nobel Prize has recognized extraordinary accomplishments in physics, chemistry, physiology or medicine, literature, and contributions to international peace.
 Questions can be answered from this dataset:
 -	Who is the prize winner in peace category in 2016?
 -	Which country has the most Nobel prize winners?
